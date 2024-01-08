@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Riyadh",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2024-01-08T15:09:44.359Z",
+      "notes": "test arab",
+      "position": {
+        "lat": "24.637713825565648",
+        "lng": "46.72760009765625"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Sanaa",
+      "country": "Yemen",
+      "emoji": "🇾🇪",
+      "date": "2024-01-08T15:10:07.112Z",
+      "notes": "test yaman",
+      "position": {
+        "lat": "15.351866656972142",
+        "lng": "44.21173095703126"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Hayma’",
+      "country": "Oman",
+      "emoji": "🇴🇲",
+      "date": "2024-01-08T15:10:21.694Z",
+      "notes": "test oman",
+      "position": {
+        "lat": "20.869784720991948",
+        "lng": "57.21679687500001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-08T15:10:54.610Z",
+      "notes": "test berlin",
+      "position": {
+        "lat": "52.515616696875874",
+        "lng": "13.391990661621096"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Freiburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-08T15:11:11.456Z",
+      "notes": "test germany",
+      "position": {
+        "lat": "47.99188906600977",
+        "lng": "7.851104736328126"
+      },
+      "id": 5
+    }
+  ]
+}
